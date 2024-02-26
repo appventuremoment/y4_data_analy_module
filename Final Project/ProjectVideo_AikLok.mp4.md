@@ -1,0 +1,1 @@
+The video file was too large to upload and I really don't want to learn how to use LFS just so I can upload my cringe voice explaining my project
