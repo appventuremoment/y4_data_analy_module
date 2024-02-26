@@ -1,0 +1,60 @@
+Subplots with overlays
+Scatterplot/Linear regression and prediction
+Pie chart
+Stacked/Grouped Bar Chart
+Histogram
+Boxplot/Violinplot
+Pointplot
+Jointplot (scatter + hist)
+Line/Area plot
+Heatmap
+Choropleth
+
+Q1 (REQUIRES CLEANING)
+boxplot annual_inc for cs related work
+pie/waffle chart proportion of wanted to got job 
+pie/waffle chart proportion of expected to actual annual income
+side by side boxplot annual inc chart of cs to non cs work 
+
+Q2 (ALL PLOTTED NOT EXPLAINED) PICK MOST IMPORTANT:
+facetgrid histogram resources used indiv
+histogram hours per week
+histogram money_spent_learning
+histogram months experience
+grouped bar isin_software_dev_job, career_interest
+choropleth country_live 
+side by side boxplot age, gender
+pareto chart education level
+waffle chart university major
+pie chart marital status
+
+Q3 (REQUIRES CLEANING)
+MLM and Heatmap, pairplot each annual inc vs
+- indiv resource
+- age
+- gender
+- money spent learning
+- hours per week
+- months experience
+
+stacked grouped percentage bar education level and major vs isin_software_dev_job
+lineplot education level and in CS major vs annual_inc 
+grouped bar total resources vs isin_software_dev_job 
+scatterplot total resources vs annual_inc
+pointplot annual_inc vs year
+
+Q4 (ALL PLOTTED NOT EXPLAINED)
+violinplot education level vs TOTAL resource
+facetgrid histogram education level for BOTH vs INDIV resources
+3 side by side boxplot for education level vs hours_per_week, months_experience, money_spent_learning
+
+------------IGNORE ANYTHING ABOVE THIS------------
+
+Now we are left with:
+
+- Ask for opinions for motivation and background
+- Explain EDA of other 2 qns
+- Fill in summary of research results AND conclusions
+- Fill in recommendations for further works
+
+VIDEO VIDEO VIDEO
